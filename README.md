@@ -796,6 +796,7 @@ A curated list of awesome Python frameworks, libraries and software. Inspired by
 * [PyNacl](https://github.com/pyca/pynacl) - Python binding to the Networking and Cryptography (NaCl) library.
 * [hashids](https://github.com/davidaurelio/hashids-python) - Implementation of [hashids](http://hashids.org) in Python.
 * [Passlib](https://pythonhosted.org/passlib/) - Secure password storage/hashing library, very high level.
+* [Pydes](http://twhiteman.netfirms.com/des.html) - A pure python module which implements the DES and Triple-DES encryption algorithms. Triple DES is either DES-EDE3 with a 24 byte key, or DES-EDE2 with a 16 byte key.
 
 ## GUI
 
